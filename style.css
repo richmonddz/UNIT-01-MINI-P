@@ -1,0 +1,48 @@
+header {
+    width: 100%;
+    display:inline;
+    top: 40px;
+    left: 40px;
+    background-image: url(/Users/richmonddominguez/Desktop/photo_2021-01-09_17-16-49.jpg)
+}
+body {
+    background-image: url(/Users/richmonddominguez/Desktop/WallpaperDog-1000601.png)
+}
+  h1 {
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    margin: 20px auto;
+    border: 5px solid black;
+  }
+  ul {
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  li {
+    list-style-type: none;
+    font-size: 20px;
+    display: inline;
+  }
+  img {
+    margin: 0 auto; 
+    display: block
+  }
+  #email {
+    background-color: lightcoral;
+    color: black;   
+    font-family: "Lucida Console", Monaco, monospace;
+  }
+  #some-link {
+    background-color: #00d9ff;
+    font-family: "Lucida Console", Monaco, monospace;
+
+  }
+  #button {
+    background-color: #999900;
+    font-family: "Lucida Console", Monaco, monospace;
+  }
+  #image-3 {
+    display: none
+  }
